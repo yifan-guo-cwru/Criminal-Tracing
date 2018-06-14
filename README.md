@@ -6,12 +6,12 @@ This is the Github for Criminals Tracing Project.
 1. Read the paper: Gaussian Processes for Crime Prediction
 2. Literature scanning on other papers in this topic
 
-Paper for week one:
+Papers:
 	
 * Gaussian Processes for Crime Prediction(The paper attached in the folder)
 * [The corresponding nice poster on Gitnub](https://github.com/kandluis/crime-prediction)
 
-Dataset for crime prediction:
+Datasets:
 
 1. https://github.com/kandluis/crime-prediction
 2. https://www.kaggle.com/c/sf-crime
